@@ -1,2 +1,2 @@
 # kotlinFunctional
-Learn by doing
+Learn by doing. Tasks from School.kt (in progress)
